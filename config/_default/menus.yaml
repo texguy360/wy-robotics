@@ -16,15 +16,15 @@ main:
     identifier: about
   - name: Mission and Core Values
     url: '/about/mission'
-    weight: 10
+    weight: 11
     parent: about
   - name: Team Members
     url: '/about/members'
-    weight: 10
+    weight: 12
     parent: about
   - name: Sponsors
     url: '/about/sponsors'
-    weight: 10
+    weight: 13
     parent: about
   - name: Blog
     url: '/post'

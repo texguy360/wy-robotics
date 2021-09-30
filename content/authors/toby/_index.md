@@ -10,7 +10,7 @@ role: CAD Man
 
 # Organizations/Affiliations
 organizations:
-- name: yes
+- name: something
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -40,7 +40,7 @@ social:
   link: https://twitter.com/
 - icon: github
   icon_pack: fab
-    link: https://github.com/tcdubbs
+  link: https://github.com/tcdubbs
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

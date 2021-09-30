@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: custom
+theme: robot
 day_night: true
-font: 'Roboto'
+font: 'Robot'
 font_size: L
 
 # SEO
@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: wyrobophins@gmail.com
+email: harbin.li@gmail.com
 appointment_url: 'https://calendly.com'
 contact_links:
   - icon: comments
@@ -47,7 +47,7 @@ address_format: en-us
 
 # Site features
 
-highlight: false
+highlight: false 
 highlight_languages: []
 math: false
 diagram: false

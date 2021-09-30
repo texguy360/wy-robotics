@@ -14,7 +14,7 @@ role: something
 
 # Organizations/Affiliations
 organizations:
-- name: yes
+- name: something
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,8 +26,8 @@ interests:
 
 education:
   courses:
-  - course: yes
-    institution: yes
+  - course: something
+    institution: something
     year: 2020
 
 # Social/Academic Networking
