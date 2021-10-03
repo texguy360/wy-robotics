@@ -38,9 +38,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:harbin.li@gmail.com'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/
 - icon: github
   icon_pack: fab
   link: https://github.com/texguy360

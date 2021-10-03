@@ -1,0 +1,11 @@
+# Font style metadata
+name = "GoodFont"
+
+# Optional Google font URL
+google_fonts = "family=Montserrat:wght@400;700&family=Metrophobic:wght@400;700&family=Courier+Prime:wght@400;700"
+
+# Font families
+heading_font = "Metrophobic"
+body_font = "Montserrat"
+nav_font = "Metrophobic"
+mono_font = "Courier Prime"

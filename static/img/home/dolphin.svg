@@ -1,0 +1,71 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 602 264" width="602" height="264">
+	<title>orignial edward file-ai</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #b9b9b9 } 
+		.shp1 { fill: #505050 } 
+		.shp2 { fill: #929292 } 
+		.shp3 { fill: #494949 } 
+		.shp4 { fill: #8d8d8d } 
+		.shp5 { fill: #d0d0d0 } 
+		.shp6 { fill: #c3c3c3 } 
+		.shp7 { fill: #dfdfdf } 
+		.shp8 { fill: #ebebeb } 
+		.shp9 { fill: #d3d3d3 } 
+		.shp10 { fill: #d6d6d6 } 
+		.shp11 { fill: #cacaca } 
+		.shp12 { fill: #c0c0c0 } 
+		.shp13 { fill: #f1f1f1 } 
+		.shp14 { fill: #ededed } 
+		.shp15 { fill: #e8e8e8 } 
+		.shp16 { fill: #e1e1e1 } 
+		.shp17 { fill: #dcdcdc } 
+		.shp18 { fill: #d7d7d7 } 
+		.shp19 { fill: #eaeaea } 
+		.shp20 { fill: #d4d4d4 } 
+		.shp21 { fill: #4f4f4f } 
+		.shp22 { fill: #545454 } 
+		.shp23 { fill: #4c4c4c } 
+		.shp24 { fill: #454545 } 
+		.shp25 { fill: #414141 } 
+		.shp26 { fill: #ececec } 
+		.shp27 { fill: #ffffff } 
+		.shp28 { fill: #474747 } 
+	</style>
+	<g id="Layer 3">
+	</g>
+	<g id="Layer 11">
+	</g>
+	<g id="Layer 13">
+		<path id="&lt;Path&gt;" class="shp0" d="M20.92 249.71L16.97 238.08L55.4 194.7L78.02 212.69L20.92 249.71Z" />
+		<path id="&lt;Path&gt;" class="shp1" d="M20.92 249.71L78.02 212.69L95.44 224.28L27.53 255.76L20.92 249.71Z" />
+		<path id="&lt;Path&gt;" class="shp2" d="M55.4 194.7L63.87 174.2L99.62 197.84L78.02 212.69L55.4 194.7Z" />
+		<path id="&lt;Path&gt;" class="shp3" d="M78.02 212.69L99.62 197.84L124.88 186.48L140.63 182.22L141.29 215.06L95.44 224.28L78.02 212.69Z" />
+		<path id="&lt;Path&gt;" class="shp4" d="M63.87 174.2L98.43 160.93L124.88 186.48L99.62 197.84L63.87 174.2Z" />
+		<path id="&lt;Path&gt;" class="shp5" d="M98.43 160.93L77.51 154.1L63.87 174.2L98.43 160.93Z" />
+		<path id="&lt;Path&gt;" class="shp6" d="M98.43 160.93L158.16 131.78L180.58 171.4L124.88 186.48L98.43 160.93Z" />
+		<path id="&lt;Path&gt;" class="shp7" d="M77.51 154.1L124.88 118.17L158.16 131.78L98.43 160.93L77.51 154.1Z" />
+		<path id="&lt;Path&gt;" class="shp8" d="M124.88 118.17L177.63 88.93L225.86 103.21L158.16 131.78L124.88 118.17Z" />
+		<path id="&lt;Path&gt;" class="shp9" d="M158.16 131.78L250.42 92.78L265.57 146.17L180.58 171.4L158.16 131.78Z" />
+		<path id="&lt;Path&gt;" class="shp10" d="M250.42 92.78L318.81 82.09L324.11 132.89L265.57 146.17L250.42 92.78Z" />
+		<path id="&lt;Path&gt;" class="shp5" d="M318.81 82.09L392.66 100.21L376.47 128.57L324.11 132.89L318.81 82.09Z" />
+		<path id="&lt;Path&gt;" class="shp11" d="M392.66 100.21L431.68 115.51L415.82 129.47L376.47 128.57L392.66 100.21Z" />
+		<path id="&lt;Path&gt;" class="shp12" d="M431.68 115.51L502.15 145.12L415.82 129.47L431.68 115.51Z" />
+		<path id="&lt;Path&gt;" class="shp13" d="M177.63 88.93L235.02 58.66L300.09 54.95L329.71 64.48L318.81 82.09L250.42 92.78L225.86 103.21L177.63 88.93Z" />
+		<path id="&lt;Path&gt;" class="shp14" d="M329.71 64.48L370.23 76.34L353.96 90.72L318.81 82.09L329.71 64.48Z" />
+		<path id="&lt;Path&gt;" class="shp15" d="M370.23 76.34L408.51 91.02L392.66 100.21L353.96 90.72L370.23 76.34Z" />
+		<path id="&lt;Path&gt;" class="shp16" d="M408.51 91.02L445.44 111.12L431.68 115.51L392.66 100.21L408.51 91.02Z" />
+		<path id="&lt;Path&gt;" class="shp17" d="M445.44 111.12L475.52 126.9L464.9 129.47L431.68 115.51L445.44 111.12Z" />
+		<path id="&lt;Path&gt;" class="shp18" d="M475.52 126.9L502.79 141.22L502.15 145.12L464.9 129.47L475.52 126.9Z" />
+		<path id="&lt;Path&gt;" class="shp19" d="M502.79 141.22L560.96 144.58L560.64 147.72L502.15 145.12L502.79 141.22Z" />
+		<path id="&lt;Path&gt;" class="shp20" d="M560.96 144.58L584.06 156.21L560.64 147.72L560.96 144.58Z" />
+		<path id="&lt;Path&gt;" class="shp21" d="M140.63 182.22L180.58 171.4L262.53 178.19L225.35 186.34L141.29 215.06L140.63 182.22Z" />
+		<path id="&lt;Path&gt;" class="shp22" d="M225.86 157.96L265.57 146.17L324.11 132.89L376.47 128.57L415.82 129.47L420.33 150.06L283.8 170.63L225.86 157.96Z" />
+		<path id="&lt;Path&gt;" class="shp23" d="M415.82 129.47L502.15 145.12L481.77 152.64L420.33 150.06L415.82 129.47Z" />
+		<path id="&lt;Path&gt;" class="shp24" d="M502.15 145.12L533.16 166.5L531.64 175.79L507.95 200.85L493.85 194.09L486.25 183.94L484.34 171.37L487.12 160.09L488.02 157.99L481.77 152.64L502.15 145.12Z" />
+		<path id="&lt;Path&gt;" class="shp25" d="M502.15 145.12L560.64 147.72L584.06 156.21L596.68 161.86L586.54 163.53L533.16 166.5L502.15 145.12Z" />
+		<path id="&lt;Path&gt;" class="shp26" d="M235.02 58.66L262.57 29.24L280.68 15.04L293.65 12.72L310.56 11.67L310.63 14.74L300.09 54.95L235.02 58.66Z" />
+		<path id="&lt;Path&gt;" class="shp27" d="M180.58 171.4L221.61 182.22L262.53 178.19L283.8 170.63L225.86 157.96L180.58 171.4Z" />
+		<path id="&lt;Path&gt;" class="shp28" d="M183.7 200.57L209.25 216.85L229.62 220.15L245.96 216.05L251.02 211.98L223.43 195.08L216.81 189.26L183.7 200.57Z" />
+	</g>
+</svg>

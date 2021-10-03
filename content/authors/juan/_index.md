@@ -39,9 +39,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/
 - icon: github
   icon_pack: fab
   link: https://github.com/jdlandi

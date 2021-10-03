@@ -10,25 +10,38 @@ main:
   - name: Teams
     url: '/teams'
     weight: 20
-  - name: About Us
+    identifier: teams
+  - name: Robophins 3216
+    url: '/teams/robophins/'
+    weight: 10
+    parent: teams
+  - name: Young Droids 15659
+    url: '/teams/young-droids/'
+    weight: 20
+    parent: teams
+  - name: About
     url: '/about'
     weight: 10
     identifier: about
-  - name: Mission and Core Values
-    url: '/about/mission'
+  - name: FIRST®
+    url: '/about/first/'
     weight: 11
     parent: about
-  - name: Team Members
-    url: '/about/members'
+  - name: Mission and Core Values
+    url: '/about/mission/'
     weight: 12
     parent: about
-  - name: Sponsors
-    url: '/about/sponsors'
+  - name: Team Members
+    url: '/about/members/'
     weight: 13
+    parent: about
+  - name: Sponsors
+    url: '/about/sponsors/'
+    weight: 14
     parent: about
   - name: Blog
     url: '/post'
     weight: 30
   - name: For Team Members
-    url: '/info'
+    url: '/info/'
     weight: 60

@@ -6,33 +6,58 @@
 # Appearance
 
 theme: robot
-day_night: true
-font: 'Robot'
+day_night: false
+font: 'GoodFont'
 font_size: L
 
 # SEO
 
 site_type: Organization
 local_business_type: ''
-org_name: ''
+org_name: 'Whitney Young Robotics'
 description: ''
-twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: harbin.li@gmail.com
-appointment_url: 'https://calendly.com'
+email: wyrobophins@gmail.com
+address:
+  street: 211 S Laflin St
+  city: Chicago
+  region: IL
+  postcode: 60607
+  country: United States
+  country_code: US
+coordinates:
+  latitude: '37.4275'
+  longitude: '-122.1697'
 contact_links:
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on the forum
-    link: 'https://github.com/wowchemy/wowchemy-hugo-modules/discussions'
+  - icon: facebook
+    icon_pack: fab
+    name: wyrobotics
+    link: 'https://www.facebook.com/wyrobotics'
+  - icon: instagram
+    icon_pack: fab
+    name: wyrobotics
+    link: 'https://www.instagram.com/wyrobotics/'
+  - icon: youtube
+    icon_pack: fab
+    name: WY Robotics
+    link: 'https://www.youtube.com/channel/UC8SGK72k37u9TlL6_2rMClg'
+  - icon: github
+    icon_pack: fab
+    name: wyrobotics
+    link: 'https://github.com/wyrobotics'
+    icon_pack: fab
+  # - icon: comments
+  #   icon_pack: fas
+  #   name: Discuss on the forum
+  #   link: 'https://github.com/wowchemy/wowchemy-hugo-modules/discussions'
 
 # Site header
 
 main_menu:
   enable: true
-  align: l
+  align: r
   show_logo: true
   show_language: false
   show_day_night: true
@@ -49,7 +74,7 @@ address_format: en-us
 
 highlight: false 
 highlight_languages: []
-math: false
+math: true
 diagram: false
 privacy_pack: false
 edit_page:

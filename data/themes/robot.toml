@@ -1,8 +1,8 @@
 # Theme metadata
-name = "Custom Theme"
+name = "Robotics Dark"
 
 # Is theme light or dark?
-is_light = false
+light = true
 
 # Primary
 primary = "#0072ff"
@@ -12,11 +12,11 @@ link = "#3273dc"
 link_hover = "rgb(54, 54, 54)"
 
 # Menu
-menu_primary = "rgb(153,238,255)"
-menu_text = "#000"
-menu_text_active = "#0072ff"
-menu_title = "#000"
+menu_primary = "rgb(1, 48, 97)"
+menu_text = "#d3d3d3"
+menu_text_active = "#f0f0f0"
+menu_title = "#d3d3d3"
 
 # Home sections
-home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(255, 255, 255)"
+home_section_odd = "rgb(230, 230, 230)"
+home_section_even = "rgb(240, 240, 240)"

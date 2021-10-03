@@ -1,0 +1,22 @@
+# Theme metadata
+name = "Robotics Dark"
+
+# Is theme light or dark?
+light = false
+
+# Primary
+primary = "#0072ff"
+
+# Links
+link = "#3273dc"
+link_hover = "rgb(54, 54, 54)"
+
+# Menu
+menu_primary = "rgb(1, 48, 97)"
+menu_text = "#d3d3d3"
+menu_text_active = "#f0f0f0"
+menu_title = "#d3d3d3"
+
+# Home sections
+home_section_odd = "rgb(230, 230, 230)"
+home_section_even = "rgb(240, 240, 240)"
