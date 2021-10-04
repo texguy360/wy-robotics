@@ -111,6 +111,9 @@ figure a {
 /*
 figcaption styles
 */
+
+
+
 .gallery figcaption,
 .fancy-figure figcaption {
     position: absolute;
@@ -122,9 +125,13 @@ figcaption styles
     text-align: center;
     font-size: 75%; /* change this if you want bigger text */
     background: rgba(0, 0, 0, 0.5);
-    opacity: 1;
+    opacity: 0;
     cursor: pointer;
 }
+
+/*
+
+
 .gallery.caption-position-none figcaption,
 .fancy-figure.caption-position-none figcaption  {
     display: none;
@@ -156,3 +163,5 @@ figcaption styles
 figcaption p {
     margin: auto; /* override style in theme */
 }
+
+*/

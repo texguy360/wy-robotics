@@ -7,18 +7,9 @@ main:
   - name: Home
     url: '/'
     weight: 1
-  - name: Teams
-    url: '/teams'
+  - name: Gallery
+    url: '/gallery'
     weight: 20
-    identifier: teams
-  - name: Robophins 3216
-    url: '/teams/robophins/'
-    weight: 10
-    parent: teams
-  - name: Young Droids 15659
-    url: '/teams/young-droids/'
-    weight: 20
-    parent: teams
   - name: About
     url: '/about'
     weight: 10
@@ -42,6 +33,15 @@ main:
   - name: Blog
     url: '/post'
     weight: 30
+    identifier: blog
+  - name: Robophins - 3216
+    url: '/post/robophins/'
+    weight: 10
+    parent: blog
+  - name: Young Droids - 15659
+    url: '/post/young-droids/'
+    weight: 20
+    parent: blog
   - name: For Team Members
     url: '/info/'
     weight: 60
