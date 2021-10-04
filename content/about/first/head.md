@@ -9,13 +9,13 @@ design:
     image: cover-img/team-pic-first.jpg
     image_darken: 1.0
     image_parallax: true
-    image_position: top
+    image_position: center
     image_size: cover
     text_color_light: true
   spacing:
     padding: ["0", "0", "0", "0"]
-  advanced:
-    css_class: fullscreen
+advanced:
+  css_class: fullscreen
 ---
 
 
