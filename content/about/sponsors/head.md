@@ -2,7 +2,7 @@
 widget: blank
 headless: false
 weight: 10
-title: Mission and Core Values
+title: Sponsors
 design:
   columns: "1"
   background:
@@ -13,9 +13,7 @@ design:
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ["50vh", "0", "20px", "0"]
-advanced:
-  css_class: fullscreen
+    padding: ["0", "0", "0", "0"]
 ---
 
 

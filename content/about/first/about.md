@@ -8,14 +8,14 @@ design:
 ---
 
 <div>
-<div style="float: left; padding-right: 5%; width: 50%">
+<div style="float: left; padding-left: 5%; width: 50%;padding-right: 5%; ">
 
 {{< youtube id="igR409sJly0" >}}
 
 {{< youtube id="h2e6gxczMxc" >}}
 <br>
 <div style="padding-left: 20%">
-{{< figure src="/img/other/ftc-logo.jpg" target="_blank" link="https://www.firstinspires.org/robotics/ftc" >}}
+<a href="https://www.firstinspires.org/robotics/ftc" target="_blank"><img src="/img/other/ftc-logo.jpg"></img></a>
 </div>
 
 </div>

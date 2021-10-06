@@ -33,7 +33,7 @@ design:
 -----
 
 <div>
-<div style="padding-right: 10%;
+<div style="padding-right: 5%;
         padding-left: 10%;
         float: left;
         width: 50%;">
@@ -45,7 +45,7 @@ design:
 <p><i class="fab fa-github-square" style="font-size:2em"></i>   <a href="https://github.com/wyrobotics" target="_blank">wyrobotics</a></p>
 </div>
 
-<div style="padding-right: 10%;
+<div style="padding-right: 5%;
         float: left;
         width: 50%;">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2100.596525629473!2d-87.66509620720309!3d41.87797063403916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2d2249e94167%3A0xad85d324bc96cc05!2sWhitney%20Young%20Magnet%20High%20School!5e0!3m2!1sen!2sus!4v1633305107351!5m2!1sen!2sus" width="100%" height="400px" style="border:0;" allowfullscreen="true" loading="lazy"></iframe>

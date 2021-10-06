@@ -2,7 +2,7 @@
 widget: blank
 headless: false
 weight: 10
-title: <h1 style="font-size:400%; font-weight:bold">Whitney Young Robotics</h1>
+title: 
 design:
   columns: "1"
   background:
@@ -13,7 +13,7 @@ design:
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ["15vh", "0", "10vh", "0"]
+    padding: ["0", "0", "0", "0"]
 advanced:
   css_class: fullscreen
 ---
@@ -25,7 +25,8 @@ advanced:
 <script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
 </head>
-
+<br>
+<h1 style="text-align:center; font-size:400%; font-weight:bold">Whitney Young Robotics</h1>
 <div width:100%;height:100%; style="padding-right: 20%; padding-left: 20%">
 <img src = "img/home/dolphin.svg" alt = "dolphin svg" width = 100%>
 </div>
