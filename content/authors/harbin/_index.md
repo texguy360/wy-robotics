@@ -7,28 +7,24 @@ authors:
 - harbin
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: something
+role: Builder
 
 # Organizations/Affiliations
 organizations:
-- name: something
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: hello
 
 interests:
 - robot
 - math
 
-education:
-  courses:
-  - course: something
-    institution: something
-    year: 2020
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

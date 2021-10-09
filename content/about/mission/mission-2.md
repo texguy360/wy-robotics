@@ -11,7 +11,7 @@ design:
 <div style="float: left; width: 30%; padding-left: 5%">
 
 </div>
-<div style="float: left; width: 70%; padding-left: 5%; display:inline-block; vertical-align: middle">
+<div style="float: left; width: 100%; padding-left: 5%; display:inline-block; vertical-align: middle">
 
 ## Core Values
 

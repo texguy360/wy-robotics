@@ -8,7 +8,7 @@ design:
 ---
 
 <div>
-<div style="float: left; padding-left: 5%; width: 60%;">
+<div style="float: left; padding-left: 5%; width: 100%;">
 
 ## Mission
 
