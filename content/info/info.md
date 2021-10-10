@@ -22,6 +22,11 @@ TBD
 
 TBD
 
+Latest Updates: https://www.firstillinoisrobotics.org/ftc-team-updates.html
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23F09300&ctz=America%2FChicago&title=Robotics%20Team&src=Y3BzLmVkdV9jbGFzc3Jvb205MGYzMGJjYkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%233F51B5" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+
+
 -----
 ## Resources
 
