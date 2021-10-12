@@ -15,7 +15,7 @@ design:
 {{< youtube id="h2e6gxczMxc" >}}
 <br>
 <div style="padding-left: 20%">
-<a href="https://www.firstinspires.org/robotics/ftc" target="_blank"><img src="/img/other/ftc-logo.jpg"></img></a>
+<a href="https://www.firstinspires.org/robotics/ftc" target="_blank"><img src="/img/logos/ftc-logo.jpg"></img></a>
 </div>
 
 </div>

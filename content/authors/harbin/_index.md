@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Builder
+role: Builder and Sponsorship Manager
 
 # Organizations/Affiliations
 organizations:
@@ -47,4 +47,4 @@ user_groups:
 - Students
 ---
 
-Hello
+Hello, 

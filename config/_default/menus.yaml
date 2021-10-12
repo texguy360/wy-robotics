@@ -26,8 +26,8 @@ main:
     url: '/about/members/'
     weight: 13
     parent: about
-  - name: Sponsors
-    url: '/about/sponsors/'
+  - name: Partners
+    url: '/about/partners/'
     weight: 14
     parent: about
   - name: Blog
