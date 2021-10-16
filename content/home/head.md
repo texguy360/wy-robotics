@@ -6,7 +6,7 @@ title:
 design:
   columns: "1"
   background:
-    image: home/school.jpg
+    image: cover-img/school.jpg
     image_darken: 0.7
     image_parallax: true
     image_position: center
@@ -28,7 +28,7 @@ advanced:
 <br>
 <h1 style="text-align:center; font-size:400%; font-weight:bold">Whitney Young Robotics</h1>
 <div width:100%;height:100%; style="padding-right: 20%; padding-left: 20%">
-<img src = "img/home/dolphin.svg" alt = "dolphin svg" width = 100%>
+<img src = "img/home/dolphin.jpg" alt = "dolphin" width = 100%>
 </div>
 
 

@@ -41,7 +41,7 @@ design:
 <p><i class="fas fa-envelope-square" style="font-size:2em"></i>   <a href="mailto:wyrobophins@gmail.com"> wyrobophins@gmail.com</a></p>
 <p><i class="fab fa-facebook-square" style="font-size:2em"></i>   <a href="https://www.facebook.com/wyrobotics" target="_blank">wyrobotics</a></p>
 <p><i class="fab fa-instagram-square" style="font-size:2em"></i>   <a href="https://www.instagram.com/wyrobotics/" target="_blank">wyrobotics</a></p>
-<p><i class="fa fa-youtube-square" style="font-size:2em"></i>   <a href="https://www.youtube.com/channel/UC8SGK72k37u9TlL6_2rMClg" target="_blank">WY Robotics</a></p>
+<p><i class="fab fa-youtube-square" style="font-size:2em"></i>   <a href="https://www.youtube.com/channel/UC8SGK72k37u9TlL6_2rMClg" target="_blank">WY Robotics</a></p>
 <p><i class="fab fa-github-square" style="font-size:2em"></i>   <a href="https://github.com/wyrobotics" target="_blank">wyrobotics</a></p>
 </div>
 

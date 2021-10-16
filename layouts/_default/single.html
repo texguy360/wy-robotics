@@ -1,0 +1,29 @@
+{{- define "main" -}}
+
+
+<article class="article">
+    <div class="article-container">
+        <div style="float:center; padding-top: 5%;text-align:left">
+            <a href="../">
+            <button type="button" 
+                style="border-radius: 5%; 
+                background-color: #E6E6E6; 
+                border-color: #013061;">&#60;&#60; Back</button>
+            </a>
+            </div>
+      </div>
+  {{ partial "page_header" . }}
+  
+  <div class="article-container">
+    
+    <div class="article-style">
+        
+      {{ .Content }}
+    </div>
+
+    {{ partial "page_footer" . }}
+
+  </div>
+</article>
+
+{{- end -}}

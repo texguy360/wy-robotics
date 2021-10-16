@@ -34,13 +34,15 @@ Latest Updates: https://www.firstillinoisrobotics.org/ftc-team-updates.html
 
 [**Engineering Notebook Guidelines (OLD)**](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/engineering-notebook-guidelines.pdf)
 
+[**Getting Started with FTC**](https://gm0.org/en/latest/)
+
 
 -----
 ## Forums
 
-[**Chief Delphi Forum**](https://www.chiefdelphi.com)
+[**FTC Official Q&A**](https://ftc-qa.firstinspires.org/qa/12)
 
-[**FTC Subforum**](https://www.chiefdelphi.com/c/other/first-tech-challenge/60)
+[**Chief Delphi Subforum**](https://www.chiefdelphi.com/c/other/first-tech-challenge/60)
 
 [**FTC Subreddit**](https://www.reddit.com/r/FTC/) \[Blocked on CPS wifi. Excellent source of information from other teams and mentors.\]
 
