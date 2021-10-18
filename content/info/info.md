@@ -40,7 +40,7 @@ Latest Updates: https://www.firstillinoisrobotics.org/ftc-team-updates.html
 -----
 ## Forums
 
-[**FTC Official Q&A**](https://ftc-qa.firstinspires.org/qa/12)
+[**FTC Official Q&A**](https://ftc-qa.firstinspires.org/qa/)
 
 [**Chief Delphi Subforum**](https://www.chiefdelphi.com/c/other/first-tech-challenge/60)
 
