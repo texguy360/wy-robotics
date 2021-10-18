@@ -6,7 +6,7 @@ Welcome to the source of https://www.wyrobotics.org, our website for the Robotic
 
 This website is built with [Hugo](https://gohugo.io) and uses the [Wowchemy](https://wowchemy.com) template manager. It's also deployed on [Netlify](https://www.netlify.com).
 
-The website was created as a rework of the old Google sites website at https://sites.google.com/view/wyrobotics/. Under the impression that it wasn't optimal for customizing and inserting blog posts, it was decided that we recreated the website without a website builder with a UI. 
+The website was created as a rework of the old Google sites website at https://sites.google.com/view/wyrobotics/. Under the impression that it wasn't optimal for customizing and inserting blog posts, it was decided that we recreated the website without a UI-based website builder. 
 
 ## For Members
 
@@ -38,11 +38,11 @@ The most important directories for adding blog posts have been **bolded**.
 - 📁 info - the for team members page
 - 📁 **post - list of blog posts**
   - 📁 robophins 
-    - 📄 `post-date-1`.md - 
+    - 📄 `post-date-1`.md
     - 📄 `post-date-2`.md
     - 📄 _index.md - an archive of blog posts for Robophins
   - 📁 young-droids
-    - 📄 `post-date-1`.md - 
+    - 📄 `post-date-1`.md 
     - 📄 `post-date-2`.md
     - 📄 _index.md - an archive of blog posts for Young Droids
 
