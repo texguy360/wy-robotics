@@ -14,8 +14,8 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Huiyi's Pancakes"
+  focal_point: "Center"
   preview_only: false
 ---
 
@@ -29,7 +29,7 @@ To celebrate and prepare for the start of a new and hopefully normal robotics se
 
 
 **Team marker:**
-- Tungsten cube to place on the shared hub  
+- ~~Tungsten cube to place on the shared hub to tilt the hub~~
   - Not allowed by &lt;GS4&gt;a
 - Use a team marker placer similar to that in Skystone; small and light.
 
@@ -45,8 +45,8 @@ The drivebase will be a tough challenge this year due to the barrier that separa
 - Large bot to go over bump
   - Will mecanums work?
   - Odometry no longer optimal
-<div style="width:42%; float:left; padding-right:1%"><img src="/img/posts/9-18-2021/field.png"></img></div>
-<div style="width:58%; float:left; padding-left:1%"><img src="/img/posts/9-18-2021/scoring.png"></img></div>
+<div style="width:42%; float:left; padding-right:1%; pointer-events:none">{{< figure src="/img/posts/9-18-2021/field.png" title="Game Field Layout" >}}</div>
+<div style="width:58%; float:left; padding-left:1%; pointer-events:none">{{< figure src="/img/posts/9-18-2021/scoring.png" title="Scoring Point Sheet">}}</div>
 
 **Game Plan:**
 - Recognizing barcode with team marker
@@ -59,6 +59,6 @@ The drivebase will be a tough challenge this year due to the barrier that separa
   - Massive amount of points to spin all ducks off 6 per duck!
   - Attempt team marker capping
   - Place ducks on alliance shipping hub since they’re light and close by
-![Team Photo](/img/posts/9-18-2021/kickoff-6.jpg)
+<div style="pointer-events:none">{{< figure src="/img/posts/9-18-2021/kickoff-6.jpg" title="Kickoff Team Photo" >}}</div>
 This is just a start to our thinking for how to conquer the tasks and what to focus on. 
 

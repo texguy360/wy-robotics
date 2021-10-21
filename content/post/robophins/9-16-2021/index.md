@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "New member meeting (9/16)"
+title: "New Member Meeting (9/16)"
 subtitle: "Attendance: Julian, Harbin, Toby, Anthony, Katelyn, Huiyi, Ava, Ehis, Juan, Ian, Peter"
 summary: "Continue designing candy dispenser and start building"
 authors: [twerner]

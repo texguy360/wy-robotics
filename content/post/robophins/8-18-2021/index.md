@@ -24,12 +24,12 @@ As a way to help spread knowledge of code, we partnered with Chicago Teen Mentor
 
 Our Scratch lesson plan had the goal of learning code through creating a project game. We picked the simple game Asteroids as our ultimate goal and started with the basic functions while gradually adding new features. 
 
-![](/img/posts/8-18-2021/coding_day2.png)
+<div style="pointer-events:none">{{< figure src="/img/posts/8-18-2021/coding_day2.png" title="Scratch Group" >}}</div>
 
 Since Scratch has an interface to display the result of running the code, it was a great tool for teaching younger students since they’d have a tangible demo of what each line of code does. It also made lessons more intriguing for students in contrast to having them write strings and numbers to perform an abstract calculation. 
 	
 The Python lesson plan had a different structure due to the more complex nature of Python functions and libraries compared to Scratch. For many, it was the first typed code language they encountered. The first 4 lessons involved going through types of variables, writing functions, and conditional statements. We then transitioned into introducing the Pygame library, a library for graphics and game controls, and demonstrated its exciting functions by creating visuals and the game Pong controlled by keyboard or mouse inputs.
 
-![](/img/posts/8-18-2021/coding_python.png)
+<div style="pointer-events:none">{{< figure src="/img/posts/8-18-2021/coding_python.png" title="Python Group" >}}</div>
 	
 Ultimately, in hosting this event with Chicago Teen Mentors, we wanted to share the joy and opportunities that coding brings for a future generation of younger students. We hope that we gave them a taste of code so that they’re interested, or at least aware of the possible opportunities to take in their future.
